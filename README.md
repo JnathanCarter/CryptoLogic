@@ -1,14 +1,14 @@
 # CryptoLogic
--Simple Word Guessing Game Built with Python
--This game is ran in the command line
+- Simple Word Guessing Game Built with Python
+- This game is ran in the command line
 
 
-#Game Description#
+# Game Description#
 The Player is given a random word selected from a list. The letters of this word have
 been scrambled and it is the players goal to unscramble the word letter by letter with the
 fewest amount of incorrect guesses
 
-#Game Play Example#
+# Game Play Example
 
 
-#Contact Information#
+# Contact Information#
