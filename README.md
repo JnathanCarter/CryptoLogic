@@ -24,3 +24,6 @@ then the incorrect guesses counter is incremented by one and the player must ret
 the correct letter. This continues until all the letters 
 are guessed. When all the letters are guessed then the loop while terminate and the results will be displayed.
 A congradulatory message will be displayed along with the amount of guesses that it took to unscramble the letter.
+
+# Contact Infor
+For inquiries or suggestions for the program please contact jcarter20@stu.jsu.edu
