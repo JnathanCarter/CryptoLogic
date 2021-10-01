@@ -9,7 +9,7 @@ been scrambled and it is the players goal to unscramble the word letter by lette
 fewest amount of incorrect guesses
 
 # Game Play Example
-/GameScreenshots/Game_example1.jpg
+![Example One](https://github.com/JnathanCarter/CryptoLogic/tree/main/GameScreenshots/Game_example1.jpg)
 /GameScreenshots/Game_example2.jpg
 /GameScreenshots/Game_example3.jpg
 # Contact Information#
