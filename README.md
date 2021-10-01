@@ -25,5 +25,5 @@ the correct letter. This continues until all the letters
 are guessed. When all the letters are guessed then the loop while terminate and the results will be displayed.
 A congradulatory message will be displayed along with the amount of guesses that it took to unscramble the letter.
 
-# Contact Infor
+# Contact Information
 For inquiries or suggestions for the program please contact jcarter20@stu.jsu.edu
