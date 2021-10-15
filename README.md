@@ -1,4 +1,6 @@
 <!--
+--Short and Sweet Read Me--
+
 # CryptoLogic
 - Simple Word Guessing Game Built with Python
 - This game is ran in the command line
@@ -18,6 +20,8 @@ This program stores all the words that can be used within a separate text file n
 # Contact Information
 For inquiries or suggestions for the program please contact jcarter20@stu.jsu.edu
 -->
+
+<!-- Lab Report Version -->
 # Introduction
 This was my Introduction to Computer Programming in Python's final project. The project's goal was to create a simple, command-line interfaced word game named "Crypto-Logic." In this game, the player will be presented with a random word in which all the letters are scrambled. The player then attempts to unscramble the word letter by letter while making the fewest possible errors. When the word is successfully unscrambled, the player will be shown how many incorrect guesses they made.
 # Materials and Method
